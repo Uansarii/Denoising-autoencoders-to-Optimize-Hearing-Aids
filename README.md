@@ -10,7 +10,7 @@ Two primary datasets have been used to meet data requirements:
 
 ## Features and Functionality
 
- Denoising of audio signals using advanced autoencoder techniques. <br/>
+ Denoising of audio signals using CNN autoencoder. <br/>
  Real-time processing capabilities suitable for telecommunication and speech recognition. <br/>
  High-performance model optimization for efficient noise removal. <br/>
  Integration with various signal processing libraries for enhanced functionality. <br/>
