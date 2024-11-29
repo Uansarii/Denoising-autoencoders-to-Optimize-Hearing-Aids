@@ -3,6 +3,10 @@
 Developed an autoencoder model to effectively remove noise from audio signals and enhance overall sound quality. The autoencoder uses advanced techniques to filter out background noise and provide real-time processing capabilities. The result is significantly improved audio clarity.
 **_Built using TensorFlow, Keras, Python, and various signal processing libraries._**
 
+Datasets used:
+Two primary datasets have been used to meet data requirements:
+1. www.kaggle.com/datasets/rtatman/speech-accent-archive
+2. https://www.kaggle.com/datasets/chrisfilo/demand
 
 ## Features and Functionality
 
